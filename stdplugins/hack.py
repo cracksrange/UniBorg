@@ -26,7 +26,7 @@ async def _(event):
 
         return
 
-    animation_interval = 4
+    animation_interval = 6
 
     animation_ttl = range(0, 11)
 
@@ -43,12 +43,12 @@ async def _(event):
             "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 4%\n█▒▒▒▒▒searching for all pics and clips▒▒ `",
             "`Hacking... 8%\n██connecting to anandus satelite system🛰️🛰️ `",    
-            "`Hacking... 20%\n█████communicating with modiji in phone to easyly copy the data `",
+            "`Hacking... 20%\n█████copying started with 120Mb per second `",
             "`Hacking... 36%\n█████████compressing hidden pictures and videos🤭🤭🤭 `",
             "`Hacking... 52%\n█████████████▒▒copying to my cloud `",
-            "`Hacking... 84%\n███████████████████completed in 4.765 sec `",
+            "`Hacking... 84%\n███████████████████completed in 12.765 sec `",
             "`Hacking... 100%\n███completed hacking contact hacker and pay `",
-            "`Targeted Account Hacked...\n\nPay 10rs To @anandus To free your account`"
+            "`Targeted Account Hacked...\n\nPay 10rs To @ANANDUS To free your data`"
         ]
 
         for i in animation_ttl:
