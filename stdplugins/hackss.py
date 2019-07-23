@@ -79,7 +79,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED██████████ `",
-            "`Your Phone Storage Have Been Hacked...\n\nPay RS 5000 as Bitcoin: 1F1tAaz5x1HUXrCNLbtMDqcw6o5GNn4xqX `"
+            "`Your Phone Storage Have Been Hacked...\n\nPay RS 10000 to ur own bank account 😂😂😂😂  `"
         ]
 
         for i in animation_ttl:
