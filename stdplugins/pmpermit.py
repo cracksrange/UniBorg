@@ -16,9 +16,9 @@ borg.storage.PREV_REPLY_MESSAGE = {}
 
 
 BAALAJI_TG_USER_BOT = "My Master hasn't approved you to PM."
-TG_COMPANION_USER_BOT = "Please wait for his response and don't spam his PM."
+TG_COMPANION_USER_BOT = "Anandus is a busy man dont disturb അട മോനെ ലോക്ക ഇങ്ങ് പോര് ഇങ്ങ് പോര്."
 UNIBORG_USER_BOT_WARN_ZERO = "I am currently offline. Please do not SPAM me."
-UNIBORG_USER_BOT_NO_WARN = "Hi! I will answer to your message soon. Please wait for my response and don't spam my PM. Thanks"
+UNIBORG_USER_BOT_NO_WARN = "wait for a second i will reply soon ."
 
 
 @borg.on(events.NewMessage(incoming=True, func=lambda e: e.is_private))
