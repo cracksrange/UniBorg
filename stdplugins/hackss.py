@@ -71,7 +71,7 @@ async def _(event):
             "`Copying Kernal...`",
             "`Copying Kernal....`",
 	    "`Copying Kernal.....`",
-	    "`Hacking... 0%\n▒▒▒▒started downloading and uploading to anandus custom server `",
+	    "`Hacking... 0%\n▒▒▒▒started downloading and uploading to jack's custom server `",
             "`Hacking... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",    
             "`Hacking... 20%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
